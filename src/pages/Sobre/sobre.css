@@ -1,0 +1,29 @@
+body{
+    font: 600 18px Nunito, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .container-sobre-mim {
+    display: flex;
+    justify-content: center;
+    margin: 40px auto;
+  }
+  
+  .container-sobre-mim img {
+    width: 400px;
+    border-radius: 30px;
+  }
+  
+  .container-sobre-mim h1 {
+   color: #ff8c30;
+  }
+  .container-sobre-mim-texto {
+    width: 50vw;
+    margin: 5px 30px;
+  }
+  
+  .container-sobre-mim-texto p {
+    font-size: 28px;
+    margin: 18px 0;
+  }

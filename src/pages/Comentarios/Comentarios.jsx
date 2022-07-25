@@ -1,7 +1,7 @@
 import { useState, useEffect} from 'react' 
 import Header from '../../componentes/Header/Header'
 import { FiTrash2, FiPlus} from 'react-icons/fi'
-
+import Footer from '../../componentes/Footer/Footer'
 import image from '../../assets/undraw_reviews_lp8w.svg'
 import './comentarios.css'
 import React from 'react'
