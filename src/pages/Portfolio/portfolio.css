@@ -7,7 +7,7 @@
   width: 75%;
   align-items: center;
   height: 80%;
-  background-color: #686AAC;
+  background-color: #5e1220;
   text-align: center
 }
 
@@ -45,7 +45,7 @@
 .card {
   height: 150px;
   width: 300px;
-  background-color: #686AAC;
+  background-color: #5e1220;
   border-radius: 4px;
   color: white;
   padding: 8px;
@@ -63,6 +63,6 @@
 .titulo {
   padding-top: 50px;
   text-align: center;
-  color: #686AAC;
+  color: #5e1220;
   font-size: 48px;
 }
